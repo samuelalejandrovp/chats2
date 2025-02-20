@@ -37,7 +37,7 @@ main{
     height: 55px;
     position: sticky;
     top: 0;
-    transition: all 0.5s;
+    transition: all 0.5s ease;
     padding: 5px 0 1px 10px;
     backdrop-filter: blur(5px);
     background-color: hsla(0, 0%, 0%, 0.285);
@@ -143,23 +143,21 @@ main{
     background-color: rgba(91, 33, 162, 0.85);
 }
 
+
 .divImgChat{
-    border: solid 3.5px;
-    border-radius: 10px;
-    width: 50%;
-    max-height: 80vh;
-    max-width: fit-content;
+    width: 70%;
+    padding: 3px;
     margin-bottom: 3px;
+    z-index: 2;
     display: flex;
     align-items: center;
     justify-content: center;
-    overflow: hidden;
+    border-radius: 10px;
 }
 .divImgChat > img{
     border-radius: 10px;
     width: 100%;
     height: 100%;
-    object-fit: contain;
 }
 
 .contenedorImgGrande{
