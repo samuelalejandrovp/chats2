@@ -416,11 +416,11 @@ const mensajes2p2=[
   }, 
   {   
       img : 'img',
-      src : '1.jpg'
+      src : '1.webp'
   },
   {   
       img : 'img',
-      src : '2.jpg'
+      src : '2.webp'
   },
   {
       texto : 'si cambias de idea me vuelves a escribir..... amargado',
