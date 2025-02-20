@@ -13,13 +13,13 @@ main{
 #fondo{
     background:left url(fondo.webp) no-repeat fixed;
     background-size: cover;
-    width: 100vw;
+    width: 120vw;
     height: 120vh;
     position: fixed;
     z-index: -1;
     top: 0;
     left: 0;
-    transition: all 0.75s ease;
+    transition: all 3s ease;
 }
 #chat{
     display: flex;
