@@ -153,6 +153,7 @@ main{
     align-items: center;
     justify-content: center;
     overflow: hidden;
+    transition: all 0.75s ease;
 }
 .divImgChat > img{
     border-radius: 10px;
