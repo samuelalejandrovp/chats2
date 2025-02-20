@@ -11,7 +11,8 @@ main{
     height: 100%;
 }
 #fondo{
-    background:left url(fondo.webp) no-repeat fixed;
+    background:left url(fondo.webp) 
+    no-repeat;
     background-size: cover;
     width: 120vw;
     height: 120vh;
