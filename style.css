@@ -13,8 +13,8 @@ main{
 #fondo{
     background:left url(fondo.webp) no-repeat fixed;
     background-size: cover;
-    width: 120vw;
-    height: 120vh;
+    width: 100vw;
+    height: 100vh;
     position: fixed;
     z-index: -1;
     top: 0;
